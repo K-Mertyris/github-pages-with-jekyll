@@ -1,10 +1,11 @@
-title: Your awesome title
-author: GitHub User
+title: My first GitHub Pages page
+author: Kalani M.
 email: your-email@domain.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Here is a basic description of this site. 
+  It is a GitHub site that will have minimal content. 
+  Check back whenever, but I wouldn't expect too much from this particular site.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
